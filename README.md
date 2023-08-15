@@ -1,5 +1,4 @@
-# DotnetOSS-ranking-cn
-中国.NET开源排行榜
+# 中国.NET开源排行榜
 
 - NPOI [![NuGet Version](https://img.shields.io/nuget/v/NPOI.svg?style=flat)](https://www.nuget.org/packages/NPOI/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)
 - EasyCaching [![NuGet Version](https://img.shields.io/nuget/v/EasyCaching.Core.svg?style=flat)](https://www.nuget.org/packages/EasyCaching.Core/) [![NuGet](https://img.shields.io/nuget/dt/EasyCaching.Core)](https://www.nuget.org/packages/EasyCaching.Core)
