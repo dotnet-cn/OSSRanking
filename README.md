@@ -20,3 +20,4 @@
 - SuperSocket [![NuGet Version](https://img.shields.io/nuget/v/SuperSocket.svg?style=flat)](https://www.nuget.org/packages/SuperSocket/) [![NuGet](https://img.shields.io/nuget/dt/SuperSocket)](https://www.nuget.org/packages/SuperSocket)
 - MiniWord [![NuGet Version](https://img.shields.io/nuget/v/MiniWord.svg?style=flat)](https://www.nuget.org/packages/MiniWord/) [![NuGet](https://img.shields.io/nuget/dt/MiniWord)](https://www.nuget.org/packages/MiniWord)
 - NanUI [![NuGet Version](https://img.shields.io/nuget/v/NetDimension.NanUI.svg?style=flat)](https://www.nuget.org/packages/NetDimension.NanUI/) [![NuGet](https://img.shields.io/nuget/dt/NetDimension.NanUI)](https://www.nuget.org/packages/NetDimension.NanUI)
+- Surging [![NuGet Version](https://img.shields.io/nuget/v/Surging.svg?style=flat)](https://www.nuget.org/packages/Surging/) [![NuGet](https://img.shields.io/nuget/dt/Surging)](https://www.nuget.org/packages/Surging)
