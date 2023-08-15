@@ -13,3 +13,4 @@
 - Npoi.Mapper [![NuGet Version](https://img.shields.io/nuget/v/NPOI.Mapper.svg?style=flat)](https://www.nuget.org/packages/NPOI.Mapper/) [![NuGet](https://img.shields.io/nuget/dt/NPOI.Mapper)](https://www.nuget.org/packages/NPOI.Mapper)
 - Furion [![NuGet Version](https://img.shields.io/nuget/v/Furion.svg?style=flat)](https://www.nuget.org/packages/Furion/) [![NuGet](https://img.shields.io/nuget/dt/Furion)](https://www.nuget.org/packages/Furion)
 - AntDesign [![NuGet Version](https://img.shields.io/nuget/v/AntDesign.svg?style=flat)](https://www.nuget.org/packages/AntDesign/) [![NuGet](https://img.shields.io/nuget/dt/AntDesign)](https://www.nuget.org/packages/AntDesign)
+- SuperSocket [![NuGet Version](https://img.shields.io/nuget/v/SuperSocket.svg?style=flat)](https://www.nuget.org/packages/SuperSocket/) [![NuGet](https://img.shields.io/nuget/dt/SuperSocket)](https://www.nuget.org/packages/SuperSocket)
