@@ -18,3 +18,4 @@
 - NewLife.Core [![NuGet Version](https://img.shields.io/nuget/v/NewLife.Core.svg?style=flat)](https://www.nuget.org/packages/NewLife.Core/) [![NuGet](https://img.shields.io/nuget/dt/NewLife.Core)](https://www.nuget.org/packages/NewLife.Core)
 - Masa.Blazor [![NuGet Version](https://img.shields.io/nuget/v/Masa.Blazor.svg?style=flat)](https://www.nuget.org/packages/Masa.Blazor/) [![NuGet](https://img.shields.io/nuget/dt/Masa.Blazor)](https://www.nuget.org/packages/Masa.Blazor)
 - SuperSocket [![NuGet Version](https://img.shields.io/nuget/v/SuperSocket.svg?style=flat)](https://www.nuget.org/packages/SuperSocket/) [![NuGet](https://img.shields.io/nuget/dt/SuperSocket)](https://www.nuget.org/packages/SuperSocket)
+- NanUI [![NuGet Version](https://img.shields.io/nuget/v/NetDimension.NanUI.svg?style=flat)](https://www.nuget.org/packages/NetDimension.NanUI/) [![NuGet](https://img.shields.io/nuget/dt/NetDimension.NanUI)](https://www.nuget.org/packages/NetDimension.NanUI)
