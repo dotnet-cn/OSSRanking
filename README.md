@@ -1,6 +1,7 @@
 # 中国.NET开源排行榜
 
 - NPOI [![NuGet Version](https://img.shields.io/nuget/v/NPOI.svg?style=flat)](https://www.nuget.org/packages/NPOI/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)
+- WebSocket4Net [![NuGet Version](https://img.shields.io/nuget/v/WebSocket4Net.svg?style=flat)](https://www.nuget.org/packages/WebSocket4Net/) [![NuGet](https://img.shields.io/nuget/dt/WebSocket4Net.svg)](https://www.nuget.org/packages/WebSocket4Net) 
 - EasyCaching [![NuGet Version](https://img.shields.io/nuget/v/EasyCaching.Core.svg?style=flat)](https://www.nuget.org/packages/EasyCaching.Core/) [![NuGet](https://img.shields.io/nuget/dt/EasyCaching.Core)](https://www.nuget.org/packages/EasyCaching.Core)
 - CAP  [![NuGet Version](https://img.shields.io/nuget/v/DotNetCore.CAP.svg?style=flat)](https://www.nuget.org/packages/DotNetCore.CAP/) [![NuGet](https://img.shields.io/nuget/dt/DotNetCore.CAP)](https://www.nuget.org/packages/DotNetCore.CAP)
 - AspectCore-Framework [![NuGet Version](https://img.shields.io/nuget/v/AspectCore.Core.svg?style=flat)](https://www.nuget.org/packages/AspectCore.Core/) [![NuGet](https://img.shields.io/nuget/dt/AspectCore.Core)](https://www.nuget.org/packages/AspectCore.Core)
