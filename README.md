@@ -1,6 +1,12 @@
-# 中国.NET开源项目排行榜 
- [点击这里按组织排名](RankingByOrg.md)
+说明：
+- 本排名只统计nuget下载量大于5万的package
+- 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计
+- 判断是否是中国开源项目的标准：主要贡献者是华人或中国人
 
+# 中国.NET开源项目排行榜 
+
+ [点击这里按组织排名](RankingByOrg.md)
+ 
 - NPOI [![NuGet Version](https://img.shields.io/nuget/v/NPOI.svg?style=flat)](https://www.nuget.org/packages/NPOI/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/> ![last commit](https://img.shields.io/github/last-commit/nissl-lab/npoi/master) 
 - Dotnetcore.NPOI [![NuGet Version](https://img.shields.io/nuget/v/Dotnetcore.NPOI.svg?style=flat)](https://www.nuget.org/packages/Dotnetcore.NPOI/) [![NuGet](https://img.shields.io/nuget/dt/Dotnetcore.NPOI)](https://www.nuget.org/packages/Dotnetcore.NPOI) <img alt="Stars" src="https://img.shields.io/github/stars/dotnetcore/NPOI?style=flat-square&labelColor=343b41"/> ![.NET Core Community](https://img.shields.io/badge/NCC-9e20c9.svg) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/NPOI) ![maintainence](https://img.shields.io/badge/maintenance%20status-deprecated-red)
 - WebSocket4Net [![NuGet Version](https://img.shields.io/nuget/v/WebSocket4Net.svg?style=flat)](https://www.nuget.org/packages/WebSocket4Net/) [![NuGet](https://img.shields.io/nuget/dt/WebSocket4Net.svg)](https://www.nuget.org/packages/WebSocket4Net) <img alt="Stars" src="https://img.shields.io/github/stars/kerryjiang/WebSocket4Net?style=flat-square&labelColor=343b41"/> ![last commit](https://img.shields.io/github/last-commit/kerryjiang/WebSocket4Net/master)
