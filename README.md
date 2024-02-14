@@ -1,5 +1,5 @@
 说明：
-- 本排名只统计nuget下载量大于5万的package
+- 本排名只统计nuget下载量大于2.5万的package
 - 本排名是按照nuget下载量降序排列
 - 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计
 - 判断是否是中国开源项目的标准：主要贡献者是华人或中国人
@@ -56,3 +56,4 @@
 - Toxy [![NuGet Version](https://img.shields.io/nuget/v/Toxy.svg?style=flat)](https://www.nuget.org/packages/Toxy/) [![NuGet](https://img.shields.io/nuget/dt/Toxy)](https://www.nuget.org/packages/Toxy) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/Toxy?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/nissl-lab/Toxy/master)](https://github.com/nissl-lab/Toxy)
 - Surging [![NuGet Version](https://img.shields.io/nuget/v/Surging.svg?style=flat)](https://www.nuget.org/packages/Surging/) [![NuGet](https://img.shields.io/nuget/dt/Surging)](https://www.nuget.org/packages/Surging) <img alt="Stars" src="https://img.shields.io/github/stars/fanliang11/surging?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/fanliang11/surging/master)](https://github.com/fanliang11/surging)
 - HZH Controls [![NuGet Version](https://img.shields.io/nuget/v/HZH_Controls.svg?style=flat)](https://www.nuget.org/packages/HZH_Controls/) [![NuGet](https://img.shields.io/nuget/dt/HZH_Controls)](https://www.nuget.org/packages/HZH_Controls) <img alt="Stars" src="https://img.shields.io/github/stars/kwwwvagaa/NetWinformControl?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/kwwwvagaa/NetWinformControl/master)](https://github.com/kwwwvagaa/NetWinformControl)
+- ToastFish [![Total Downloads](https://img.shields.io/github/downloads/Uahh/ToastFish/total.svg)](https://github.com/Uahh/ToastFish/releases) <img alt="Stars" src="https://img.shields.io/github/stars/Uahh/ToastFish?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/Uahh/ToastFish/main)](https://github.com/Uahh/ToastFish)
