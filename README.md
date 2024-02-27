@@ -3,6 +3,7 @@
 - 本排名是按照nuget下载量降序排列
 - 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计
 - 判断是否是中国开源项目的标准：主要贡献者是华人或中国人
+- 本列表去除了Github repo已处于archived状态的项目
 
 # 中国.NET开源项目排行榜 China .NET OSS Ranking
 
