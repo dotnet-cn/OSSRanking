@@ -20,6 +20,8 @@
 
 ### [.NET Foundation](https://dotnetfoundation.org/)  .NET基金会
 - AntDesignBlazor [![NuGet Version](https://img.shields.io/nuget/v/AntDesign.svg?style=flat)](https://www.nuget.org/packages/AntDesign/) [![NuGet](https://img.shields.io/nuget/dt/AntDesign)](https://www.nuget.org/packages/AntDesign) ![.NET Foundation](https://img.shields.io/badge/DNF-2b0b98.svg) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor/master)
+- MiniExcel [![NuGet Version](https://img.shields.io/nuget/v/MiniExcel.svg?style=flat)](https://www.nuget.org/packages/MiniExcel/) [![NuGet](https://img.shields.io/nuget/dt/MiniExcel)](https://www.nuget.org/packages/MiniExcel) ![.NET Foundation](https://img.shields.io/badge/DNF-2b0b98.svg) ![last commit](https://img.shields.io/github/last-commit/mini-software/MiniExcel/master)
+
 
 ### [SciSharp](http://scisharpstack.org)
 - TensorFlow.NET [![NuGet Version](https://img.shields.io/nuget/v/TensorFlow.NET.svg?style=flat)](https://www.nuget.org/packages/TensorFlow.NET/) [![NuGet](https://img.shields.io/nuget/dt/TensorFlow.NET)](https://www.nuget.org/packages/TensorFlow.NET) ![SciSharp](https://img.shields.io/badge/SCISHARP-865fc3.svg) ![last commit](https://img.shields.io/github/last-commit/SciSharp/TensorFlow.NET/master)
@@ -34,7 +36,6 @@
 
 ### [dotNet China](https://www.chinadot.net/)
 - SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) ![Dotnet China](https://img.shields.io/badge/DOTNETCHINA-ff0000.svg) ![last commit](https://img.shields.io/github/last-commit/DotNetNext/SqlSugar/master)
-- MiniExcel [![NuGet Version](https://img.shields.io/nuget/v/MiniExcel.svg?style=flat)](https://www.nuget.org/packages/MiniExcel/) [![NuGet](https://img.shields.io/nuget/dt/MiniExcel)](https://www.nuget.org/packages/MiniExcel) ![Dotnet China](https://img.shields.io/badge/DOTNETCHINA-ff0000.svg) ![last commit](https://img.shields.io/github/last-commit/mini-software/MiniExcel/master)
 - Furion [![NuGet Version](https://img.shields.io/nuget/v/Furion.svg?style=flat)](https://www.nuget.org/packages/Furion/) [![NuGet](https://img.shields.io/nuget/dt/Furion)](https://www.nuget.org/packages/Furion) ![Dotnet China](https://img.shields.io/badge/DOTNETCHINA-ff0000.svg) ![last commit](https://img.shields.io/github/last-commit/MonkSoul/Furion/v4) 
 - HandyControl [![NuGet Version](https://img.shields.io/nuget/v/HandyControl.svg?style=flat)](https://www.nuget.org/packages/HandyControl/) [![NuGet](https://img.shields.io/nuget/dt/HandyControl)](https://www.nuget.org/packages/HandyControl) ![Dotnet China](https://img.shields.io/badge/DOTNETCHINA-ff0000.svg) ![last commit](https://img.shields.io/github/last-commit/HandyOrg/HandyControl/master)
 - SunnyUI [![NuGet Version](https://img.shields.io/nuget/v/SunnyUI.svg?style=flat)](https://www.nuget.org/packages/SunnyUI/) [![NuGet](https://img.shields.io/nuget/dt/SunnyUI)](https://www.nuget.org/packages/SunnyUI) ![Dotnet China](https://img.shields.io/badge/DOTNETCHINA-ff0000.svg) ![last commit](https://img.shields.io/github/last-commit/yhuse/SunnyUI/master)
