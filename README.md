@@ -1,9 +1,9 @@
 说明：
-- 本排名只统计nuget下载量大于2万的package
-- 本排名是按照nuget下载量降序排列
-- 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计
-- 判断是否是中国开源项目的标准：主要贡献者是华人或中国人
-- 本列表去除了Github repo已处于archived状态的项目
+- 本排名只统计nuget下载量大于2万的package This ranking only includes projects which have 20k nuget download at least
+- 本排名是按照nuget下载量降序排列 This ranking orders descently by nuget download number
+- 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计 All real-time data is from Github and Nuget. Gitee doesn't provie automatic feteching API for this.
+- 判断是否是中国开源项目的标准：主要贡献者是华人或中国人 How to determine if it's a China OSS project: Major contributors are Chinese
+- 本列表去除了Github repo已处于archived状态的项目 This ranking doesn't include any archived projects
 
 # 中国.NET开源项目排行榜 China .NET OSS Ranking
 
