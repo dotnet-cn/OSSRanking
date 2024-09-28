@@ -1,10 +1,8 @@
-# 社群 Online Social
-
-社区活动订阅：https://www.meetup.com/shanghai-nug/ 
+### 社群 Online Social
 
 微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
-# 说明 Notes：
+### 说明 Notes：
 - 本排名只统计nuget下载量大于2万的package - This ranking only includes projects which have 20k nuget download at least
 - 本排名是按照nuget下载量降序排列 - This ranking orders descently by nuget download number
 - 所有实时数据均来自Github和nuget, 由于Gitee未提供数据自动获取接口，暂不做统计 - All real-time data is from Github and Nuget. Gitee doesn't provie automatic feteching API for this.
